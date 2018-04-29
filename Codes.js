@@ -1,4 +1,4 @@
-handlers = function createCharactes(args, context){
+handlers.createCharactes = function (args, context){
 
 
 
