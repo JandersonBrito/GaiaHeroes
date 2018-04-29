@@ -1,4 +1,6 @@
-function createCharactes(){
+handlers = function createCharactes(args, context){
+
+
 
     
-}
+};
